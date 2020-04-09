@@ -404,9 +404,10 @@ nav > ul li a:active {
 }
 
 .videoContainer > video {
-	border-radius:2.7em;
+	border-radius:30px;
 	width: 349px;
-	height: 755px;
+	margin-top: 24px;
+	
 }
 
 @media only screen and (max-width: 1070px) {
@@ -434,9 +435,10 @@ nav > ul li a:active {
 	}
 	
 	.videoContainer > video {
-		border-radius:2.7em;
+		border-radius:30px;
 		width: 322px;
-		height: 698px;
+		margin-top: 20px;
+		
 	}
 	
 } 
@@ -460,17 +462,17 @@ nav > ul li a:active {
 	}
 
 	.videoContainer {
-		border-radius:2.7em;
+		border-radius:15px;
 		width: 226px;
 		height: 488px;
 		margin-left: 0px;
-		margin-top: 17px;
+		margin-top: 15px;
 	}
 
 	.videoContainer > video {
-		border-radius:2.7em;
+		border-radius:15px;
 		width: 226px;
-		height: 488px;
+		margin-top: 15px;
 	}
 	
 } 
