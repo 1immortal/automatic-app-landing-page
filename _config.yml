@@ -12,7 +12,7 @@ playstore_link                            : https://play.google.com/store/apps/d
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : AmazMod                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 #app_price                                :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : AmazMod is an additional application for your Amazfit watches - it can entirely replace the notification system, multi-lingual support, a file manager, own callendar support with selected watchfaces, advanced tweaking section, weather provider and much MUCH more!
+app_description                           : AmazMod is an additional application for your Amazfit watches - it can entirely replace the notification system, multi-lingual support, a file manager, own callendar support with selected watchfaces, advanced tweaking section, weather provider and much MUCH more! Make your Amazfit Amazing!
 
 #enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
