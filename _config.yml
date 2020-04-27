@@ -39,7 +39,7 @@ features                                  :
     fontawesome_icon_name                 : info-circle
 
 - title                                 : Settings
-    description                           : Set pre-defined responces, font sizing, DND, Private content, images, timeouts, filtering, set it as you want!
+    description                           : Set pre-defined responces, font sizing, DND, Private content, images, timeouts, filtering, set it as YOU want!
     fontawesome_icon_name                 : cog
     
   - title                                 : Tweaking
