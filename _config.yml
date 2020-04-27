@@ -39,31 +39,31 @@ features                                  :
     fontawesome_icon_name                 : cog
     
   - title                                 : Tweaking
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+    description                           : WiFi control, common settings control, entering Fastboot, screenshots and a direct adb executable command!
     fontawesome_icon_name                 : sliders-h
 
   - title                                 : File explorer
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+    description                           : Wireless file transfer, both from the smartphone side and from the app! built-in text reading abilities, watchfaces detection and installation!
     fontawesome_icon_name                 : folder-open
 
   - title                                 : Widgets
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+    description                           : Re-order the widgets order on your watch as YOU want, as much as YOU want.
     fontawesome_icon_name                 : th-large
 
   - title                                 : GreatFit / Calendar / Weather
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+    description                           : Calendar ICS support, own weather provider with personal openweather key (registration needed), full GreatFit© integration support!
     fontawesome_icon_name                 : calendar-alt
   
   - title                                 : Stats / Logs
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+    description                           : Collect Smartphone/watch side logs for support, and send them over for a review.
     fontawesome_icon_name                 : file-alt
 
   - title                                 : Changelog
-    description                           : Display a smart app banner on iOS devices.
+    description                           : The new and awesome stuff we've added, and the even better new bugs, hidden all-over!
     fontawesome_icon_name                 : plus-square
 
   - title                                 : Watch-side Service
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+    description                           : A launcher interface for most settings, built-in file explorer on the watch, direct notification drawer access, this will be your 2nd most important widget!
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
