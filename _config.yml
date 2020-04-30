@@ -34,10 +34,6 @@ youtube_username                          : AmazMod
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-- title                                   : Watch-side Service
-    description                           : A launcher interface for most settings, built-in file explorer on the watch, direct notification drawer access, this will be your 2nd most important widget!
-    fontawesome_icon_name                 : info-circle
-
 - title                                   : Settings
     description                           : Set pre-defined responces, font sizing, DND, Private content, images, timeouts, filtering, set it as YOU want!
     fontawesome_icon_name                 : cog
@@ -65,6 +61,10 @@ features                                  :
   - title                                 : Changelog
     description                           : The new and awesome stuff we've added, and the even better new bugs, hidden all-over!
     fontawesome_icon_name                 : plus-square
+    
+- title                                   : Watch-side Service
+    description                           : A launcher interface for most settings, built-in file explorer on the watch, direct notification drawer access, this will be your 2nd most important widget!
+    fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
