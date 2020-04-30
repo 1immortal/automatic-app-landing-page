@@ -32,9 +32,9 @@ youtube_username                          : AmazMod
 
 
 # Feature List                            Edit, add or remove features to be presented.
-features                                  :
+#features                                  :
 
-- title                                   : Settings
+  - title                                 : Settings
     description                           : Set pre-defined responces, font sizing, DND, Private content, images, timeouts, filtering, set it as YOU want!
     fontawesome_icon_name                 : cog
     
