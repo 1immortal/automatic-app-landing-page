@@ -15,22 +15,22 @@ Here you will find the full changelog of the public official releases of AmazMod
 - Add setting to use colored icon for custom UI notification
 - Now dark theme will follow system theme setting (beta)
 - Watch widgets can now be reordered directly from the phone
-        <new>Add "Clear ADB" button on tweaking menu to avoid to much adb processes keep running</new>
-        <new>Monitor widgets option on to force apply the selected order while Amazfit app tries to revert it</new>
-        <new>Ability to select the calendar accounts from which data are extracted</new>
-        <new>(Service) Incoming notifications will only vibrate while you type (to avoid losing your message)</new>
-        <new>(Service) Improved widget-reorder UI with a save button</new>
-        <new>Ability to export battery graph history (long press the graph)</new>
-        <new>Added Hourly chime feature (a vibration every hour)</new>
-        <new>Now notification filter can be used for title, content only or both two as before</new>
-        <new>New option to enable/disable notification sound on Verge</new>
-        <new>(Service) Ability to collect and save XDrip+ transmitted data</new>
-        <new>New accurate weather forecast data (based on OpenWeatherMap)</new>
-        <new>New weather card in main screen</new>
-        <new>Enable/Disable notification forwarding while driving (phone in driving mode)</new>
-        <new>Music files show up directly after transfer to watch (mp3, m4a)</new>
-        <new>Service now supports translations (language is set based on phone app)</new>
-        <new>Translation additions. App is almost fully translatable.</new>
+- Add "Clear ADB" button on tweaking menu to avoid to much adb processes keep running
+- Monitor widgets option on to force apply the selected order while Amazfit app tries to revert it
+- Ability to select the calendar accounts from which data are extracted
+- (Service) Incoming notifications will only vibrate while you type (to avoid losing your message)
+- (Service) Improved widget-reorder UI with a save button
+- Ability to export battery graph history (long press the graph)
+- Added Hourly chime feature (a vibration every hour)
+- Now notification filter can be used for title, content only or both two as before
+- New option to enable/disable notification sound on Verge
+- (Service) Ability to collect and save XDrip+ transmitted data
+- New accurate weather forecast data (based on OpenWeatherMap)
+- New weather card in main screen
+- Enable/Disable notification forwarding while driving (phone in driving mode)
+- Music files show up directly after transfer to watch (mp3, m4a)
+- Service now supports translations (language is set based on phone app)
+- Translation additions. App is almost fully translatable.
 
 #### Bug Fixes
         <bugfix>Fix some problems with Android 10</bugfix>
