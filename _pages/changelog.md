@@ -10,18 +10,36 @@ Here you will find the full changelog of the public official releases of AmazMod
 <br>
 
 ### `Latest`
-# **Version 220**
-# versionName="v1.1.9 (220)"
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
-
+# **Version 1.1.9 / 220**
 #### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+      <new>Add setting to use colored icon for custom UI notification</new>
+        <new>Now dark theme will follow system theme setting (beta)</new>
+        <new>Watch widgets can now be reordered directly from the phone</new>
+        <new>Add "Clear ADB" button on tweaking menu to avoid to much adb processes keep running</new>
+        <new>Monitor widgets option on to force apply the selected order while Amazfit app tries to revert it</new>
+        <new>Ability to select the calendar accounts from which data are extracted</new>
+        <new>(Service) Incoming notifications will only vibrate while you type (to avoid losing your message)</new>
+        <new>(Service) Improved widget-reorder UI with a save button</new>
+        <new>Ability to export battery graph history (long press the graph)</new>
+        <new>Added Hourly chime feature (a vibration every hour)</new>
+        <new>Now notification filter can be used for title, content only or both two as before</new>
+        <new>New option to enable/disable notification sound on Verge</new>
+        <new>(Service) Ability to collect and save XDrip+ transmitted data</new>
+        <new>New accurate weather forecast data (based on OpenWeatherMap)</new>
+        <new>New weather card in main screen</new>
+        <new>Enable/Disable notification forwarding while driving (phone in driving mode)</new>
+        <new>Music files show up directly after transfer to watch (mp3, m4a)</new>
+        <new>Service now supports translations (language is set based on phone app)</new>
+        <new>Translation additions. App is almost fully translatable.</new>
 
 #### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
-
+        <bugfix>Fix some problems with Android 10</bugfix>
+        <bugfix>Fix missing Google Assistant notification</bugfix>
+        <bugfix>Filemanager and App list now use case insensitive sort order</bugfix>
+        <bugfix>Calendar data fixes</bugfix>
+        <bugfix>Small fix on Dark theme text visibilities and other graphical adjustments</bugfix>
+        <bugfix>Widgets list will show all installed widgets</bugfix>
+        <bugfix>(Service) Code cleanup</bugfix>
 <br>
 
 ### **Version 2.1**
