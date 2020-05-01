@@ -15,7 +15,11 @@
                 {{ content }}
             </article>
         </div>
-        {% include features.html %}
+
+          {% if page.url != 'changelog' && 'privacypolicy' %}
+          {% include features.html%}
+          {% endif %}
+
         {% include footer.html %}
         {% include appstoreimages.html %}
     </div>
