@@ -5,10 +5,8 @@ include_in_header: true
 ---
 
 # Changelog
-Here you will find the full changelog of the public official releases of AmazMod.
-
+Here you will find the full changelog of the __public__ __official__ __releases__ of __AmazMod__.
 <br>
-
 # Latest
 ## **Version 1.1.9 / 220**
 ### What's New
