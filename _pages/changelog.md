@@ -12,8 +12,8 @@ Here you will find the full changelog of the public official releases of AmazMod
 ### `Latest`
 # **Version 1.1.9 / 220**
 #### What's New
-      <new>Add setting to use colored icon for custom UI notification</new>
-        <new>Now dark theme will follow system theme setting (beta)</new>
+- Add setting to use colored icon for custom UI notification
+- Now dark theme will follow system theme setting (beta)
         <new>Watch widgets can now be reordered directly from the phone</new>
         <new>Add "Clear ADB" button on tweaking menu to avoid to much adb processes keep running</new>
         <new>Monitor widgets option on to force apply the selected order while Amazfit app tries to revert it</new>
