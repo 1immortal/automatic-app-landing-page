@@ -9,7 +9,7 @@ Here you will find the full changelog of the public official releases of AmazMod
 
 <br>
 
-# `Latest`
+# Latest
 ## **Version 1.1.9 / 220**
 ### What's New
 #### Smartphone side - AmazMod application on your phone:
