@@ -9,7 +9,18 @@ include_in_header: true
     1. [Clean installation](#subparagraph1)
     2. [Upgrade from previous versions](#subparagraph2)
     3. [Removal](#subparagraph3)
-3. [Another paragraph](#paragraph2)
+3. [Mobile Application overview](#paragraph2)
+    1. [Settings](#subparagraph1)
+    1. [Tweaking](#subparagraph2)
+    1. [Settings](#subparagraph3)
+    1. [Settings](#subparagraph4)
+    1. [Settings](#subparagraph5)
+    1. [Settings](#subparagraph6)
+    1. [Settings](#subparagraph7)
+    1. [Settings](#subparagraph8)
+    1. [Settings](#subparagraph9)
+    1. [Settings](#subparagraph10)
+    
 
 ## So what is AmazMod? <a name="introduction"></a>
 AmazMod used to be a modified ("modded") Amazfit app, the companion app for Pace and Stratos watches built by Huami, changing and adding some of its features. But it has evolved to its own app that uses the data communication between Amazfit app on phone and the watch to implement its own notifications system and more.
@@ -33,7 +44,7 @@ Some features:
 ### Clean installation <a name="subparagraph1"></a>
 ### Upgrade from previous versions <a name="subparagraph2"></a>
 ### Removal <a name="subparagraph3"></a>
-For a proper removal of AmazMod (why would you do that?!), follow these steps:
+For a proper removal of AmazMod (**why would you do that?!**), follow these steps:
 1. On your watch, open the AmazMod widget and tap the **cog** icon.
 2. Scroll down to the **Revoke Device Admin Permission** and tap it.
 3. Open the **App Manager** on the AmazMod widget, and remove AmazMod service :(
@@ -45,21 +56,12 @@ Alternatively, you can watch this video:
 ## Another paragraph <a name="paragraph2"></a>
 The second paragraph text
 
-__TOC__
 
-== Installation / Upgrade / Removal instructions ==
-
-===  ===
-
-
+==  ==
 
 ===  ===
 
-== Mobile Application overview ==
-
-=== Settings ===
-
-=== Tweaking ===
+===  ===
 
 === File Explorer ===
 
