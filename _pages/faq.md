@@ -19,6 +19,13 @@ include_in_header: true
     7. [FAQ](#subparagraph10)
     8. [Support us](#subparagraph11)
     9. [About](#subparagraph12)
+4. [Watch Service overview](#paragraph3)
+    1. [UI](#subparagraph13)
+    2. [Functionality](#subparagraph14)
+    3. [FAQ](#subparagraph15)
+    4. [Troubleshooting](#subparagraph16)
+    5. [About](#subparagraph13)
+5. [General Troubleshooting](#paragraph4)
     
     
 
@@ -64,39 +71,12 @@ Alternatively, you can watch this video:
 ### Support us <a name="subparagraph11"></a>
 ### About <a name="subparagraph12"></a>
 
+## Watch Service overview <a name="paragraph3"></a>
+### UI <a name="subparagraph13"></a>
+### Functionality <a name="subparagraph14"></a>
+### FAQ <a name="subparagraph15"></a>
+### Troubleshooting <a name="subparagraph16"></a>
 
+## General Troubleshooting <a name="paragraph4"></a>
+### I can't install AmazMod on my Stratos 3
 
-==  ==
-
-===  ===
-
-===  ===
-
-===  ===
-
-===  ===
-
-===  ===
-
-===  ===
-
-===  ===
-
-===  ===
-
-===  ===
-
-===  ===
-
-== Watch Service overview ==
-
-=== UI ===
-
-=== Functionality ===
-
-== FAQ ==
-
-== Troubleshooting ==
-
-
-[![AmazMod Stratos 3](https://img.youtube.com/vi/4fAhb6cylqY/0.jpg)](https://www.youtube.com/watch?v=4fAhb6cylqY "AmazMod installation on Amazfit Stratos 3")
