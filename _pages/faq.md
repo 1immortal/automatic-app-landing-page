@@ -7,6 +7,8 @@ include_in_header: true
 1. [Introduction](#introduction)
 2. [Installation / Upgrade / Removal instructions](#paragraph1)
     1. [Clean installation](#subparagraph1)
+    2. [Upgrade from previous versions](#subparagraph2)
+    3. [Removal](#subparagraph3)
 3. [Another paragraph](#paragraph2)
 
 ## So what is AmazMod? <a name="introduction"></a>
@@ -28,8 +30,11 @@ Some features:
 
 
 ## Installation / Upgrade / Removal instructions <a name="paragraph1"></a>
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
+### Clean installation <a name="subparagraph1"></a>
+### Upgrade from previous versions <a name="subparagraph2"></a>
+### Removal <a name="subparagraph3"></a>
+
+
 
 ## Another paragraph <a name="paragraph2"></a>
 The second paragraph text
@@ -40,11 +45,11 @@ __TOC__
 
 == Installation / Upgrade / Removal instructions ==
 
-=== Upgrade from previous versions ===
-
 ===  ===
 
-=== Removal ===
+
+
+===  ===
 
 == Mobile Application overview ==
 
