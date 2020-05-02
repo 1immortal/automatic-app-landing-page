@@ -10,16 +10,16 @@ include_in_header: true
     2. [Upgrade from previous versions](#subparagraph2)
     3. [Removal](#subparagraph3)
 3. [Mobile Application overview](#paragraph2)
-    1. [Settings](#subparagraph1)
-    1. [Tweaking](#subparagraph2)
-    1. [Settings](#subparagraph3)
     1. [Settings](#subparagraph4)
-    1. [Settings](#subparagraph5)
-    1. [Settings](#subparagraph6)
-    1. [Settings](#subparagraph7)
-    1. [Settings](#subparagraph8)
-    1. [Settings](#subparagraph9)
-    1. [Settings](#subparagraph10)
+    2. [Tweaking](#subparagraph5)
+    3. [File Explorer](#subparagraph6)
+    4. [Widgets](#subparagraph7)
+    5. [GreatFit / Calendar / Weather](#subparagraph8)
+    6. [Stats / Logs](#subparagraph9)
+    7. [FAQ](#subparagraph10)
+    8. [Support us](#subparagraph11)
+    9. [About](#subparagraph12)
+    
     
 
 ## So what is AmazMod? <a name="introduction"></a>
@@ -63,21 +63,21 @@ The second paragraph text
 
 ===  ===
 
-=== File Explorer ===
+===  ===
 
-=== Widgets ===
+===  ===
 
-=== GreatFit / Calendar / Weather ===
+===  ===
 
-=== Stats / Logs ===
+===  ===
 
-=== Changelog ===
+===  ===
 
-=== FAQ ===
+===  ===
 
-=== Support us ===
+===  ===
 
-=== About ===
+===  ===
 
 == Watch Service overview ==
 
