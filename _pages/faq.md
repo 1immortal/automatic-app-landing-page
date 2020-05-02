@@ -37,16 +37,13 @@ For a proper removal of AmazMod (why would you do that?!), follow these steps:
 1. On your watch, open the AmazMod widget and tap the **cog** icon.
 2. Scroll down to the **Revoke Device Admin Permission** and tap it.
 3. Open the **App Manager** on the AmazMod widget, and remove AmazMod service :(
+
 Alternatively, you can watch this video:
-[![Uninstall AmazMod](https://youtu.be/M6P57yv3yd4/5.jpg)](https://www.youtube.com/watch?v=M6P57yv3yd4 "Uninstall AmazMod from your Amazfit watch")
 
-
-
+[![Uninstall AmazMod](http://img.youtube.com/vi/M6P57yv3yd4/0.jpg)](http://www.youtube.com/watch?v=M6P57yv3yd4 "Uninstall AmazMod")
 
 ## Another paragraph <a name="paragraph2"></a>
 The second paragraph text
-
-
 
 __TOC__
 
