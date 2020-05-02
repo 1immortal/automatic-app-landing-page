@@ -33,13 +33,13 @@ Here you will find the full changelog of the __public__ __official__ __releases_
 - Service now supports translations (language is set based on phone app) 
 
 #### Bug Fixes
-        <bugfix>Fix some problems with Android 10</bugfix>
-        <bugfix>Fix missing Google Assistant notification</bugfix>
-        <bugfix>Filemanager and App list now use case insensitive sort order</bugfix>
-        <bugfix>Calendar data fixes</bugfix>
-        <bugfix>Small fix on Dark theme text visibilities and other graphical adjustments</bugfix>
-        <bugfix>Widgets list will show all installed widgets</bugfix>
-        <bugfix>(Service) Code cleanup</bugfix>
+ - Fix some problems with Android 10
+ - Fix missing Google Assistant notification
+ - Filemanager and App list now use case insensitive sort order
+ - Calendar data fixes
+ - Small fix on Dark theme text visibilities and other graphical adjustments
+ - Widgets list will show all installed widgets
+ - (Service) Code cleanup
 <br>
 
 ### **Version 2.1**
