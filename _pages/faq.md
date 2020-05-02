@@ -81,10 +81,14 @@ Alternatively, you can watch this video:
 ### I can't install AmazMod on my Stratos 3 <a name="subparagraph17"></a>
 With Amazfit Stratos 3, Huami changed few things, and we had to get creative.
 Please follow these steps for a proper installation on your Stratos 3 sportswatch:
-1. Install latest AmazMod from the playstore - <https://play.google.com/store/apps/details?id=com.edotassi.amazmod> - make sure to give full permissions to Amazfit and AmazMod apps and lock to work in the background.
-2. Head to the AmazMod github download page - <https://github.com/edotassi/AmazMod/releases/latest> - and install the service on your watch by running the installation wizard or install the service apk manually and at the end run the following by adb:
-adb -d shell monkey -p com.amazmod.service 1 > NUL
+1. **Install latest AmazMod from the playstore** - <https://play.google.com/store/apps/details?id=com.edotassi.amazmod> - make sure to give full permissions to Amazfit and AmazMod apps and lock to work in the background.
+2. **Head to the AmazMod github download page** - <https://github.com/edotassi/AmazMod/releases/latest> - and install the service on your watch by running the installation wizard or install the service apk manually and at the end run the following by adb:
+
+'adb -d shell monkey -p com.amazmod.service 1 > NUL'
+
 and reboot your watch.
 3. Enable the AmazMod UI by following the steps in video.
+
+
 [![AmazMod Stratos 3](https://img.youtube.com/vi/4fAhb6cylqY/0.jpg)](https://www.youtube.com/watch?v=4fAhb6cylqY "AmazMod installation on Amazfit Stratos 3")
 
