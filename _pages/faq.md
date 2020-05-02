@@ -53,8 +53,17 @@ Alternatively, you can watch this video:
 
 [![Uninstall AmazMod](http://img.youtube.com/vi/M6P57yv3yd4/0.jpg)](http://www.youtube.com/watch?v=M6P57yv3yd4 "Uninstall AmazMod")
 
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
+## Mobile Application overview <a name="paragraph2"></a>
+### Settings <a name="subparagraph4"></a>
+### Tweaking <a name="subparagraph5"></a>
+### File Explorer <a name="subparagraph6"></a>
+### Widgets <a name="subparagraph7"></a>
+### GreatFit / Calendar / Weather <a name="subparagraph8"></a>
+### Stats / Logs <a name="subparagraph9"></a>
+### FAQ <a name="subparagraph10"></a>
+### Support us <a name="subparagraph11"></a>
+### About <a name="subparagraph12"></a>
+
 
 
 ==  ==
