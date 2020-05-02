@@ -1,10 +1,9 @@
+__TOC__
 ---
 layout: page
 title: FAQ
 include_in_header: true
 ---
-
-__TOC__
 
 == Installation / Upgrade / Removal instructions ==
 
