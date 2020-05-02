@@ -40,69 +40,73 @@ Here you will find the full changelog of the __public__ __official__ __releases_
  - Small fix on Dark theme text visibilities and other graphical adjustments
  - Widgets list will show all installed widgets
  - (Service) Code cleanup
+ 
 <br>
 
-<release
-        date="2019-08-17"
-        versionCode="217"
-        versionName="v1.1.8 (217)">
-        <bugfix>OTA service update fix</bugfix>
-    </release>
-    <release
-        date="2019-08-14"
-        versionCode="216"
-        versionName="v1.1.8 (216)">
-        <new>Phone app updated to with new libs (AndroidX)</new>
-        <new>Internet access from the watch support with Amazfit Internet Companion service</new>
-        <new>Overlay button notifications access - Notification access directly from the watchface</new>
-        <new>Improved Emoji support</new>
-        <new>Dark theme (beta)</new>
-        <new>Option to activate WFZ watchface directly when pushing it to watch</new>
-        <new>Ability to generate App/Service logs directly from AmazMod</new>
-        <new>Command History is now saved/restored in backup</new>
-        <new>New file picker (tap and hold to select multiple files)</new>
-        <new>Option to hide heart rate chart, which stops battery data requests</new>
-        <new>Files Downloaded from watch now opens directly in File Explorer</new>
-        <bugfix>re-worked Download/Upload/Screenshot (should be more stable)</bugfix>
-        <bugfix>Widgets reorder fixes</bugfix>
-        <bugfix>Maps and messenger calls notifications working</bugfix>
-        <bugfix>Do not vibrate watch for alerts if Silence is enabled</bugfix>
-        <bugfix>Fixed Sporadic "Welcome to Amazmod" notification on watch</bugfix>
-        <bugfix>Lots of Small Bug fixes and Optimizations</bugfix>
-        <info>UI/UX updates and optimizations</info>
-        <info>Updated Internal libs</info>
-        <info>Updated Translations</info>
-    </release>
-    <release
-        date="2019-04-23"
-        versionCode="212"
-        versionName="v1.1.6 (212)">
-        <new>Faster app installation now is work for NON root user too! (PS Amazmod update will be fast from the next update too)</new>
-        <new>Heart-rate graph added (phone app)</new>
-        <new>Screenshots are auto rotated for Verge</new>
-        <new>Watch's screen is unlocked before a screenshot</new>
-        <new>New adaptive phone app icon</new>
-        <new>Watch Info card style improvements (phone app)</new>
-        <new>Battery graph added in watch's menu (service app)</new>
-        <new>Low phone battery alert on watch</new>
-        <new>Low watch battery notification on phone</new>
-        <new>Fully charged watch notification on phone</new>
-        <new>Connection status notification can now be hidden from device settings (new notification channel on Android O+)</new>
-        <new>Number of calendar events found are shown after ICS URL test</new>
-        <new>Icons for images, apps and watchfaces in the file explorer</new>
-        <bugfix>Screenshot color and other fix</bugfix>
-        <bugfix>Translation option selection fix</bugfix>
-        <bugfix>Notifications system app filter fix</bugfix>
-        <bugfix>Settings titles/descriptions where simplified</bugfix>
-        <bugfix>Installing apks with spaces/dots in their name fix</bugfix>
-        <bugfix>Opening apk/wfz from Opera fix (maybe for other apps too)</bugfix>
-        <bugfix>Small bug fixes</bugfix>
-        <info>Updated translations</info>
-    </release>
-    <release
-        date="2019-04-01"
-        versionCode="210"
-        versionName="v1.1.5 (210)">
+## **Version 1.1.8 / 217**
+### What's New
+- OTA service update fix
+
+<br>
+
+## **Version 1.1.8 / 216**
+### What's New
+- Phone app updated to with new libs (AndroidX)
+- Internet access from the watch support with Amazfit Internet Companion service
+- Overlay button notifications access - Notification access directly from the watchface
+- Improved Emoji support
+- Dark theme (beta)
+- Option to activate WFZ watchface directly when pushing it to watch
+- Ability to generate App/Service logs directly from AmazMod
+- Command History is now saved/restored in backup
+- New file picker (tap and hold to select multiple files)
+- Option to hide heart rate chart, which stops battery data requests
+- Files Downloaded from watch now opens directly in File Explorer
+#### Bug Fixes
+- re-worked Download/Upload/Screenshot (should be more stable)
+- Widgets reorder fixes
+- Maps and messenger calls notifications working
+- Do not vibrate watch for alerts if Silence is enabled
+- Fixed Sporadic "Welcome to Amazmod" notification on watch
+- Lots of Small Bug fixes and Optimizations
+#### Info
+- UI/UX updates and optimizations
+- Updated Internal libs
+- Updated Translations
+
+<br>
+
+## **Version 1.1.2 / 212**
+### What's New
+- Faster app installation now is work for NON root user too! (PS Amazmod update will be fast from the next update too)
+- Heart-rate graph added (phone app)
+- Screenshots are auto rotated for Verge
+- Watch's screen is unlocked before a screenshot
+- New adaptive phone app icon
+- Watch Info card style improvements (phone app)
+- Battery graph added in watch's menu (service app)
+- Low phone battery alert on watch
+- Low watch battery notification on phone
+- Fully charged watch notification on phone
+- Connection status notification can now be hidden from device settings (new notification channel on Android O+)
+- Number of calendar events found are shown after ICS URL test
+- Icons for images, apps and watchfaces in the file explorer
+#### Bug Fixes
+- Screenshot color and other fix
+- Translation option selection fix
+- Notifications system app filter fix
+- Settings titles/descriptions where simplified
+- Installing apks with spaces/dots in their name fix
+- Opening apk/wfz from Opera fix (maybe for other apps too)
+- Small bug fixes
+#### Info
+- Updated translations
+
+<br>
+
+## **Version 1.1.5 / 210**
+### What's New
+
         <new>Notifications control adjustments:
             1. Store and deploy on watch re-connection
             2. Dismiss if watch not connected</new>
