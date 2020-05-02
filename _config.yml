@@ -130,7 +130,6 @@ exclude:
 
 collections:
   pages:
-  - FAQ.md
   output: true
   permalink: /:path/
 
