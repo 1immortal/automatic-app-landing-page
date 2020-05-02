@@ -87,6 +87,7 @@ Please follow these steps for a proper installation on your Stratos 3 sportswatc
 `adb -d shell monkey -p com.amazmod.service 1 > NUL`
 
 and reboot your watch.
+
 Enable the AmazMod UI by following the steps in video:
 
 
