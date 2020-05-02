@@ -9,8 +9,23 @@ include_in_header: true
     1. [Sub paragraph](#subparagraph1)
 3. [Another paragraph](#paragraph2)
 
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
+## So what is AmazMod? <a name="introduction"></a>
+AmazMod used to be a modified ("modded") Amazfit app, the companion app for Pace and Stratos watches built by Huami, changing and adding some of its features. But it has evolved to its own app that uses the data communication between Amazfit app on phone and the watch to implement its own notifications system and more.
+As of today, AmazMod is supported by the following devices:
+Amazfit PACE, Amazfit Verge, Amazfit Stratos and Amazfit Stratos 3.
+
+Some features:
+* Brand new notifications filter system, with the option to use customized ("canned") replies;
+* Battery log and other info that can be viewed on the app as a graph;
+* Control watch's screen brightness ("Auto brightness" on watch must be off for this to work);
+* Option to not send notifications to watch when the phone screen is on;
+* Receive messenger call notifications and maps navigation info on the watch;
+* File transfer to and from the watch over the air;
+* Shell execution optionality to the watch from the phone;
+* Improved Watch/Smartphone connection tunnel (lower battery usage);
+* Emoji display ability;
+* Various functions in watch widget menu (Wifi, Flash Light, QRCode, LPM, Admin, Reboot);
+
 
 ## Some paragraph <a name="paragraph1"></a>
 The first paragraph text
