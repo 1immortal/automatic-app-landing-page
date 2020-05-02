@@ -129,7 +129,7 @@ exclude:
   - CNAME
 
 collections:
-pages:	
+  pages:
     output: true
     permalink: /:path/
 
